@@ -1,3 +1,4 @@
+package Other;
 
 public class BianLi {
     public static void main(String[] args) {
