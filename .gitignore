@@ -1,0 +1,14 @@
+# project
+**/.DS_Store
+**/.idea
+**/*.iml
+**/.class
+**/out
+
+# gradle
+**/.gradle
+**/gradlew.bat
+**/gradle
+**/gradlew
+
+#
