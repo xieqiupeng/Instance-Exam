@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'com.cobb'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+//M2_HOME=/Users/Cobb/apache-maven-3.5.4
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
