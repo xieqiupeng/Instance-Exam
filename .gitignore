@@ -2,7 +2,7 @@
 **/.DS_Store
 **/.idea
 **/*.iml
-**/.class
+**/*.class
 **/out
 
 # gradle
